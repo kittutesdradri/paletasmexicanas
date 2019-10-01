@@ -1,0 +1,2 @@
+# paletasmexicanas
+GitHub Pages
